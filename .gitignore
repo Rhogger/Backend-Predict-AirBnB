@@ -1,0 +1,22 @@
+# Arquivos de ambiente virtual (venv)
+venv/
+
+# Arquivos de cache e compilação Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Outros arquivos e diretórios
+.env
+.idea/
+.vscode/
